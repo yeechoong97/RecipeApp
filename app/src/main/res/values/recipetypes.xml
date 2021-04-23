@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="recipe_types">
+        <item name="lunch">Lunch</item>
+        <item name="breakfast">Breakfast</item>
+        <item name="dinner">Dinner</item>
+        <item name="dessert">Dessert</item>
+        <item name="drinks">Drinks</item>
+        <item name="soups">Soups</item>
+        <item name="snacks">Snacks</item>
+    </array>
+
+    <array name="recipe_all_types">
+        <item name="All">All</item>
+        <item name="lunch">Lunch</item>
+        <item name="breakfast">Breakfast</item>
+        <item name="dinner">Dinner</item>
+        <item name="dessert">Dessert</item>
+        <item name="drinks">Drinks</item>
+        <item name="soups">Soups</item>
+        <item name="snacks">Snacks</item>
+    </array>
+
+
+
+</resources>
